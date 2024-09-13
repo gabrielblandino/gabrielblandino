@@ -40,5 +40,3 @@ Aqui no GitHub, você encontrará meus projetos mais recentes e antigos, usados 
 <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
-
-Entusiasta em análise de dados e programação
